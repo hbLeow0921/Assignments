@@ -1,4 +1,4 @@
-Binary Search Tree in C
+
 
 Implementing a binary search tree (BST) in C
 ============================================
